@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = net.lotte.marketplace.config.TestContainersSpringContextCustomizerFactory
